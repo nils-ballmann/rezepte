@@ -1,2 +1,4 @@
-# rezepte
-Rezepte - deutsch
+# Rezepte
+
+Meine Sammlung von Rezepten
+
